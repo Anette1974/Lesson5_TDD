@@ -1,3 +1,5 @@
 def sum_list(list):
-#    return None
+    # pass hade också fungerat
+    # raise Exception() hade också fungerat
+    #return None
     return sum(list)
